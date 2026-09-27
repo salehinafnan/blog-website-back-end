@@ -61,14 +61,6 @@ Cart state is only `[{ id, count }]`. Product data, line totals, tax and item
 counts are derived from it on every render and never stored. This rules out
 the stale-state bugs the original version had.
 
-## Deploying to GitHub Pages
-
-The workflow in `.github/workflows/pages.yml` builds the app with the correct
-base path and deploys it. To enable it:
-
-1. In the repo, go to **Settings → Pages → Source** and choose **GitHub Actions**.
-2. On the **Actions** tab, run **deploy to pages**.
-
 ## History
 
 This started as my week-3 assignment for a MERN course. The original code
