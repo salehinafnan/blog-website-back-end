@@ -1,6 +1,6 @@
 # Phone Store
 
-[![ci](https://github.com/salehinafnan/blog-website-back-end/actions/workflows/ci.yml/badge.svg)](https://github.com/salehinafnan/blog-website-back-end/actions/workflows/ci.yml)
+[![ci](https://github.com/salehinafnan/react-phone-store/actions/workflows/ci.yml/badge.svg)](https://github.com/salehinafnan/react-phone-store/actions/workflows/ci.yml)
 
 A small single-page phone shop built with React. It has a product catalogue
 with brand filters and sorting, product detail pages, an "added to cart"
